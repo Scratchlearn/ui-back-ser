@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-acre-407408",
+  "private_key_id": "de54f3adf33faa79ec29f2c25046ea61a7c0d3f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHsvc9cTuaygid\nnMpv3BHicfGzd/iqyHvxMgooLeDwjKvN90+v/0Ton2E3xF+7XRikaTN+yIYJusPq\nuY7+XesrdBJrp0JSOQ/SiG2mtgpFrHSj4eBhHsyKClXssuIJulzOecUxE+qlw1VM\nAssG/aPvZxzozNNAoe8b875yRywYLyNANwLu3HQn6JIptbqNjNhTnoJQGawjwq/8\nk1TndYY6Axs+6ehGq9OQkUIy32wGjVPHQqoXDeRK1wuWVniiA87Nwt0180fE22li\n3NajMfPo/pB5y79WduD/iYex6+uB9ZZAMOoMYem14gqVoJErMYDNd9dO2EkRjkCk\ngFOaEhppAgMBAAECggEAGTsdHkv3cC3tCz7jW+E1+EKVu2thxXApqrZ8DooHZNUd\nItuHm7C4q9xxO8rJnqJbSfCJw0/CEaohdT9nF+/VVernJedey4UuoNbAZeMTpqxs\nm0UfZJ3v0VQPeaW7RefgMG01syb1S2bD2OP0c2hqBUYloqs4WK7tBz7TVdx0r4RR\n/8IvH2GNtSQA/vKz6qJp4sAy8E5G4ABfHx95/IAdYdsyRkel3MReBEf4zsG1m1dp\nIqhvQ1mJhqivB0zk+iHo3pV5KpHbWfXWJLjMBJUovTd/WEpOBaVEkDG2K+/XZpl6\nwRjMIiWdXLNSm0L567kzH8tx8IhyLoOx4wVTcHf6lQKBgQDlJ4DQeneK6ZnqdN4e\nHqcMlIlSj0aY3G5DmCW2XFYoSY56geX8E2TeRUTHabROuhhVcY+1IwTQgeWC49Mh\nu6y2xuuVtuuAJonTcHwEURcST9TS1M5ZOW5ywniMkJ4OKpkENev2XMOwvAQJzRwi\nizfIcuxcDoCFpDZ3zQebNWjJRQKBgQDfGBR5aDMh0L0h8CKA+evBJvv3ySJu+jce\nOgm9HvrLu+Tz682DHcJ2bABh795AXVhHtM4csihahkmuG3iAkTbDLOWWChQgM3y0\nNHcLHm353Twed6swVb24mkmxzFoLDcR8oLWnCXKBd24+iYl1TfTyu5dKzh+sZS1K\n0UwL6fhU1QKBgGrRCC2l+JVLIND2WxdlKG8nyf8vBDR7A/cENAgWcJ7k8sJOTLs8\n+xbU6SOfNUpBWthxUBCaW0MqWaaythcSWYb1oJkwJASfcj2aQGTuu7dweP8x7WIP\n8FkUJ4c2XkayOpOI4w363clDSwqajpPXm1AXqe+bXvNswWsEqpgBxG+VAoGBAJvj\nFZtoBiKg2ye1xkZdXDERbotMDjWBvbXvVBLEbPajim4u3OG7j8Bz4yiMFb7f+unQ\nGx3OF4h5wU5Zf7BGx/9Fhf97d2iw0XiSGIS6dJpdzr5zXDlgEDvIA6qrYlfK/Psg\nyQ24+jwhGfW04UoIeRqLnkH1Ggi6ghV/fiXtDUspAoGBANPvpip4o5OA1oJRJ+xI\ngsskD8MGeM6gaXYr8jm+NQnmzM/96ExVfnn/O79xMS7/l6N7Vc83IOQrokfXfuWN\nWyEcvFcSWC1YcQLFXRn4eqvPK/ci9ayg5ixet07ThxjBBtvaJk/tDRjMW0GisIXe\n+hmnawaW0ruoVJkXwrsvY2Bx\n-----END PRIVATE KEY-----\n",
+  "client_email": "scheduler-ui-bq-acess@stellar-acre-407408.iam.gserviceaccount.com",
+  "client_id": "108012642116543639373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scheduler-ui-bq-acess%40stellar-acre-407408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
